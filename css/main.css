@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  color: #555
+  font-family: "Crimson Text", serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  color: #222;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+header p {
+  color: #222;
+  font-size: 1.125rem;
+  font-style: italic;
+  line-height: 1.3;
+}
